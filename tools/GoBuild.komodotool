@@ -1,0 +1,17 @@
+{
+  "insertOutput": 0, 
+  "keyboard_shortcut": "", 
+  "name": "GoBuild", 
+  "parseRegex": "", 
+  "operateOnSelection": 0, 
+  "value": [
+    "go build"
+  ], 
+  "cwd": "", 
+  "env": "", 
+  "doNotOpenOutputWindow": 0, 
+  "showParsedOutputList": 0, 
+  "type": "command", 
+  "parseOutput": 0, 
+  "runIn": "command-output-window"
+}
